@@ -1,0 +1,420 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/skryshtafovych/Documents/Personal/Reviewer/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/skryshtafovych/Documents/Personal/Reviewer/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/skryshtafovych/Documents/Personal/Reviewer/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/skryshtafovych/Documents/Personal/Reviewer/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [com.google.firebase:firebase-core:16.0.6] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.6.aar/e0018c59a7da084dc081cecbd09e8d4e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-config:16.1.2] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-config-16.1.2.aar/32fa8dc1c176c1ef8bb621b858b90d31/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/329186bed536e2f529ccf69303489649/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/cf93c1f9aa05d2d0080f33ea2b2fbfc0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/7075c93d176fdc340e3745a6d1b130b3/AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/ba0d968627be13f5e4b027886172741e/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-16.0.0.aar/f745e0490662ab7ac56caac2cb22a4b2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.4.aar/87e197c38d73b1b514a09de53f724003/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-abt:16.0.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-abt-16.0.1.aar/c4abdeaaa9c91065a4142e965e2ae7c9/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/c5b03e5b0d436bc6827936f064df7ec9/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/5b8773b53975e1ee2071e0d2659699c1/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/817fc1dd83d52bcca0b183a6b845155a/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/d30834c27303a9535549ba8f402437d6/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/edeb5684595564c233f22f85680e4c94/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/6905a7406a88c85c56497d5472251795/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.5.aar/3b65b076aeee6ea2f10d92eb57fd7252/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/253e9491fe637a2b22868f185aedd3e0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/3ac48d61b17219b4d85bf854c04c814a/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/7e712a08733dd7281bf92ce3f56adc4f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/6b8c661b2b800868b7f4010a1449782c/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/3fc50d0207de73cce71e3c72ce3c0d5e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/fda9fb5dcce211087f8eac1734d423ac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/188b6350fc93f654559254a8c05f744e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/92ce0ad355348742e004b0145e5294dd/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/7b997940d1679fcb99817db6e6f7e9cc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/df501c413adfb6388ed96c152189b498/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/7f286109997aabfd4841a615d19edf4b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/59efc337bc6cbe515a701883951bc88c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/a5ce80ad76cd3ccdd42d880f9d686df7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/0b415d38460a17e03ef53f724548ea90/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/dc223bce0d3d0dfcb5008b0114e85442/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/deaa21d400edf24c93433777be61326c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/4f3053487cfe5895715c258c963f7c16/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/0eda0d19b27d2c6e3a9137ab0f306fdb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/61c0817d4ef40edd4f710fedfe4629b7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/be0147c8bdcfb1a987fd3663e9088035/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/899613c3c45dd20a175f04974bbba1ec/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/c0808c740875bdd9d94af05060ebbe60/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/68cd5beac2a1eece775e05ed3abaf97d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/4468ac57443d23434f8b6e0039917f00/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/168e111a045a76662dee53f5a842ec68/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dcb73b41bbe333fa4b7873b6f536c136/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/673b3ecc3a9a42a233de6475fca8cd4f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/ae73fc0c76b44b9b5a030e8cb6cc83fe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/d1f571a92d597bc9d39914dbb1a7ed22/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/f7fb12f55d6d2827545e53ae9e80b07d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/538735696b08baf3a885872943e66d04/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/skryshtafovych/Documents/Personal/Reviewer/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/skryshtafovych/Documents/Personal/Reviewer/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/skryshtafovych/Documents/Personal/Reviewer/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /Users/skryshtafovych/Documents/Personal/Reviewer/app/src/main/AndroidManifest.xml:3:11-58
+		INJECTED from /Users/skryshtafovych/Documents/Personal/Reviewer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/skryshtafovych/Documents/Personal/Reviewer/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/skryshtafovych/Documents/Personal/Reviewer/app/src/main/AndroidManifest.xml
+		ADDED from /Users/skryshtafovych/Documents/Personal/Reviewer/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/skryshtafovych/Documents/Personal/Reviewer/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/skryshtafovych/Documents/Personal/Reviewer/app/src/main/AndroidManifest.xml
+		ADDED from /Users/skryshtafovych/Documents/Personal/Reviewer/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/skryshtafovych/Documents/Personal/Reviewer/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/skryshtafovych/Documents/Personal/Reviewer/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/skryshtafovych/Documents/Personal/Reviewer/app/src/main/AndroidManifest.xml:5:5-20:19
+MERGED from [com.google.firebase:firebase-core:16.0.6] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.6.aar/e0018c59a7da084dc081cecbd09e8d4e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.6] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.6.aar/e0018c59a7da084dc081cecbd09e8d4e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-config:16.1.2] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-config-16.1.2.aar/32fa8dc1c176c1ef8bb621b858b90d31/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config:16.1.2] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-config-16.1.2.aar/32fa8dc1c176c1ef8bb621b858b90d31/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/cf93c1f9aa05d2d0080f33ea2b2fbfc0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/cf93c1f9aa05d2d0080f33ea2b2fbfc0/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/7075c93d176fdc340e3745a6d1b130b3/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/7075c93d176fdc340e3745a6d1b130b3/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/ba0d968627be13f5e4b027886172741e/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/ba0d968627be13f5e4b027886172741e/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-16.0.0.aar/f745e0490662ab7ac56caac2cb22a4b2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-16.0.0.aar/f745e0490662ab7ac56caac2cb22a4b2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.4.aar/87e197c38d73b1b514a09de53f724003/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.4.aar/87e197c38d73b1b514a09de53f724003/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/c5b03e5b0d436bc6827936f064df7ec9/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/c5b03e5b0d436bc6827936f064df7ec9/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/5b8773b53975e1ee2071e0d2659699c1/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/5b8773b53975e1ee2071e0d2659699c1/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/817fc1dd83d52bcca0b183a6b845155a/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/817fc1dd83d52bcca0b183a6b845155a/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/d30834c27303a9535549ba8f402437d6/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/d30834c27303a9535549ba8f402437d6/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/edeb5684595564c233f22f85680e4c94/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/edeb5684595564c233f22f85680e4c94/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/6905a7406a88c85c56497d5472251795/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/6905a7406a88c85c56497d5472251795/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.5.aar/3b65b076aeee6ea2f10d92eb57fd7252/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.5.aar/3b65b076aeee6ea2f10d92eb57fd7252/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/253e9491fe637a2b22868f185aedd3e0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/253e9491fe637a2b22868f185aedd3e0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/3ac48d61b17219b4d85bf854c04c814a/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/3ac48d61b17219b4d85bf854c04c814a/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/7e712a08733dd7281bf92ce3f56adc4f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/7e712a08733dd7281bf92ce3f56adc4f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/6b8c661b2b800868b7f4010a1449782c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/6b8c661b2b800868b7f4010a1449782c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/188b6350fc93f654559254a8c05f744e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/188b6350fc93f654559254a8c05f744e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/92ce0ad355348742e004b0145e5294dd/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/92ce0ad355348742e004b0145e5294dd/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/be0147c8bdcfb1a987fd3663e9088035/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/be0147c8bdcfb1a987fd3663e9088035/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/899613c3c45dd20a175f04974bbba1ec/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/899613c3c45dd20a175f04974bbba1ec/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/be0147c8bdcfb1a987fd3663e9088035/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/skryshtafovych/Documents/Personal/Reviewer/app/src/main/AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from /Users/skryshtafovych/Documents/Personal/Reviewer/app/src/main/AndroidManifest.xml:8:13-45
+	android:roundIcon
+		ADDED from /Users/skryshtafovych/Documents/Personal/Reviewer/app/src/main/AndroidManifest.xml:9:13-58
+	android:icon
+		ADDED from /Users/skryshtafovych/Documents/Personal/Reviewer/app/src/main/AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from /Users/skryshtafovych/Documents/Personal/Reviewer/app/src/main/AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from /Users/skryshtafovych/Documents/Personal/Reviewer/app/src/main/AndroidManifest.xml:11:13-44
+	android:name
+		ADDED from /Users/skryshtafovych/Documents/Personal/Reviewer/app/src/main/AndroidManifest.xml:12:5-40
+activity#stepan.review.app.android.appreviewer.MainActivity
+ADDED from /Users/skryshtafovych/Documents/Personal/Reviewer/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /Users/skryshtafovych/Documents/Personal/Reviewer/app/src/main/AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/skryshtafovych/Documents/Personal/Reviewer/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/skryshtafovych/Documents/Personal/Reviewer/app/src/main/AndroidManifest.xml:15:17-68
+	android:name
+		ADDED from /Users/skryshtafovych/Documents/Personal/Reviewer/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/skryshtafovych/Documents/Personal/Reviewer/app/src/main/AndroidManifest.xml:17:17-76
+	android:name
+		ADDED from /Users/skryshtafovych/Documents/Personal/Reviewer/app/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /Users/skryshtafovych/Documents/Personal/Reviewer/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/skryshtafovych/Documents/Personal/Reviewer/app/src/main/AndroidManifest.xml
+INJECTED from /Users/skryshtafovych/Documents/Personal/Reviewer/app/src/main/AndroidManifest.xml
+MERGED from [com.google.firebase:firebase-core:16.0.6] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.6.aar/e0018c59a7da084dc081cecbd09e8d4e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.6] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.6.aar/e0018c59a7da084dc081cecbd09e8d4e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-config:16.1.2] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-config-16.1.2.aar/32fa8dc1c176c1ef8bb621b858b90d31/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config:16.1.2] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-config-16.1.2.aar/32fa8dc1c176c1ef8bb621b858b90d31/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/329186bed536e2f529ccf69303489649/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/329186bed536e2f529ccf69303489649/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/cf93c1f9aa05d2d0080f33ea2b2fbfc0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/cf93c1f9aa05d2d0080f33ea2b2fbfc0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/7075c93d176fdc340e3745a6d1b130b3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/7075c93d176fdc340e3745a6d1b130b3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/ba0d968627be13f5e4b027886172741e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/ba0d968627be13f5e4b027886172741e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-16.0.0.aar/f745e0490662ab7ac56caac2cb22a4b2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-16.0.0.aar/f745e0490662ab7ac56caac2cb22a4b2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.4.aar/87e197c38d73b1b514a09de53f724003/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.4.aar/87e197c38d73b1b514a09de53f724003/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-abt:16.0.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-abt-16.0.1.aar/c4abdeaaa9c91065a4142e965e2ae7c9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-abt:16.0.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-abt-16.0.1.aar/c4abdeaaa9c91065a4142e965e2ae7c9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/c5b03e5b0d436bc6827936f064df7ec9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/c5b03e5b0d436bc6827936f064df7ec9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/5b8773b53975e1ee2071e0d2659699c1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/5b8773b53975e1ee2071e0d2659699c1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/817fc1dd83d52bcca0b183a6b845155a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/817fc1dd83d52bcca0b183a6b845155a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/d30834c27303a9535549ba8f402437d6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/d30834c27303a9535549ba8f402437d6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/edeb5684595564c233f22f85680e4c94/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/edeb5684595564c233f22f85680e4c94/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/6905a7406a88c85c56497d5472251795/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/6905a7406a88c85c56497d5472251795/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.5.aar/3b65b076aeee6ea2f10d92eb57fd7252/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.5.aar/3b65b076aeee6ea2f10d92eb57fd7252/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/253e9491fe637a2b22868f185aedd3e0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/253e9491fe637a2b22868f185aedd3e0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/3ac48d61b17219b4d85bf854c04c814a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/3ac48d61b17219b4d85bf854c04c814a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/7e712a08733dd7281bf92ce3f56adc4f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/7e712a08733dd7281bf92ce3f56adc4f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/6b8c661b2b800868b7f4010a1449782c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/6b8c661b2b800868b7f4010a1449782c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/3fc50d0207de73cce71e3c72ce3c0d5e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/3fc50d0207de73cce71e3c72ce3c0d5e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/fda9fb5dcce211087f8eac1734d423ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/fda9fb5dcce211087f8eac1734d423ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/188b6350fc93f654559254a8c05f744e/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/188b6350fc93f654559254a8c05f744e/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/92ce0ad355348742e004b0145e5294dd/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/92ce0ad355348742e004b0145e5294dd/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/7b997940d1679fcb99817db6e6f7e9cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/7b997940d1679fcb99817db6e6f7e9cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/df501c413adfb6388ed96c152189b498/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/df501c413adfb6388ed96c152189b498/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/7f286109997aabfd4841a615d19edf4b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/7f286109997aabfd4841a615d19edf4b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/59efc337bc6cbe515a701883951bc88c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/59efc337bc6cbe515a701883951bc88c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/a5ce80ad76cd3ccdd42d880f9d686df7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/a5ce80ad76cd3ccdd42d880f9d686df7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/0b415d38460a17e03ef53f724548ea90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/0b415d38460a17e03ef53f724548ea90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/dc223bce0d3d0dfcb5008b0114e85442/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/dc223bce0d3d0dfcb5008b0114e85442/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/deaa21d400edf24c93433777be61326c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/deaa21d400edf24c93433777be61326c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/4f3053487cfe5895715c258c963f7c16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/4f3053487cfe5895715c258c963f7c16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/0eda0d19b27d2c6e3a9137ab0f306fdb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/0eda0d19b27d2c6e3a9137ab0f306fdb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/61c0817d4ef40edd4f710fedfe4629b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/61c0817d4ef40edd4f710fedfe4629b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/be0147c8bdcfb1a987fd3663e9088035/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/be0147c8bdcfb1a987fd3663e9088035/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/899613c3c45dd20a175f04974bbba1ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/899613c3c45dd20a175f04974bbba1ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/c0808c740875bdd9d94af05060ebbe60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/c0808c740875bdd9d94af05060ebbe60/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/68cd5beac2a1eece775e05ed3abaf97d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/68cd5beac2a1eece775e05ed3abaf97d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/4468ac57443d23434f8b6e0039917f00/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/4468ac57443d23434f8b6e0039917f00/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/168e111a045a76662dee53f5a842ec68/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/168e111a045a76662dee53f5a842ec68/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dcb73b41bbe333fa4b7873b6f536c136/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dcb73b41bbe333fa4b7873b6f536c136/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/673b3ecc3a9a42a233de6475fca8cd4f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/673b3ecc3a9a42a233de6475fca8cd4f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/ae73fc0c76b44b9b5a030e8cb6cc83fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/ae73fc0c76b44b9b5a030e8cb6cc83fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/d1f571a92d597bc9d39914dbb1a7ed22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/d1f571a92d597bc9d39914dbb1a7ed22/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/f7fb12f55d6d2827545e53ae9e80b07d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/f7fb12f55d6d2827545e53ae9e80b07d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/538735696b08baf3a885872943e66d04/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/538735696b08baf3a885872943e66d04/AndroidManifest.xml:20:5-44
+INJECTED from /Users/skryshtafovych/Documents/Personal/Reviewer/app/src/main/AndroidManifest.xml
+INJECTED from /Users/skryshtafovych/Documents/Personal/Reviewer/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/188b6350fc93f654559254a8c05f744e/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /Users/skryshtafovych/Documents/Personal/Reviewer/app/src/main/AndroidManifest.xml
+		ADDED from /Users/skryshtafovych/Documents/Personal/Reviewer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/skryshtafovych/Documents/Personal/Reviewer/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/skryshtafovych/Documents/Personal/Reviewer/app/src/main/AndroidManifest.xml
+		ADDED from /Users/skryshtafovych/Documents/Personal/Reviewer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/skryshtafovych/Documents/Personal/Reviewer/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/7075c93d176fdc340e3745a6d1b130b3/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/ba0d968627be13f5e4b027886172741e/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/ba0d968627be13f5e4b027886172741e/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/c5b03e5b0d436bc6827936f064df7ec9/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/c5b03e5b0d436bc6827936f064df7ec9/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/5b8773b53975e1ee2071e0d2659699c1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/5b8773b53975e1ee2071e0d2659699c1/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/7075c93d176fdc340e3745a6d1b130b3/AndroidManifest.xml:22:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/7075c93d176fdc340e3745a6d1b130b3/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/ba0d968627be13f5e4b027886172741e/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/ba0d968627be13f5e4b027886172741e/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/c5b03e5b0d436bc6827936f064df7ec9/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/c5b03e5b0d436bc6827936f064df7ec9/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/5b8773b53975e1ee2071e0d2659699c1/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/5b8773b53975e1ee2071e0d2659699c1/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/7075c93d176fdc340e3745a6d1b130b3/AndroidManifest.xml:23:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/7075c93d176fdc340e3745a6d1b130b3/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/ba0d968627be13f5e4b027886172741e/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/ba0d968627be13f5e4b027886172741e/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/c5b03e5b0d436bc6827936f064df7ec9/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/c5b03e5b0d436bc6827936f064df7ec9/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/5b8773b53975e1ee2071e0d2659699c1/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/5b8773b53975e1ee2071e0d2659699c1/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/7075c93d176fdc340e3745a6d1b130b3/AndroidManifest.xml:24:22-65
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/7075c93d176fdc340e3745a6d1b130b3/AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/5b8773b53975e1ee2071e0d2659699c1/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/5b8773b53975e1ee2071e0d2659699c1/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/5b8773b53975e1ee2071e0d2659699c1/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/7075c93d176fdc340e3745a6d1b130b3/AndroidManifest.xml:27:18-89
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/7075c93d176fdc340e3745a6d1b130b3/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/7075c93d176fdc340e3745a6d1b130b3/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/7075c93d176fdc340e3745a6d1b130b3/AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/ba0d968627be13f5e4b027886172741e/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/c5b03e5b0d436bc6827936f064df7ec9/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/c5b03e5b0d436bc6827936f064df7ec9/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/ba0d968627be13f5e4b027886172741e/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/ba0d968627be13f5e4b027886172741e/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/ba0d968627be13f5e4b027886172741e/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/ba0d968627be13f5e4b027886172741e/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/ba0d968627be13f5e4b027886172741e/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/ba0d968627be13f5e4b027886172741e/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/c5b03e5b0d436bc6827936f064df7ec9/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/c5b03e5b0d436bc6827936f064df7ec9/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/ba0d968627be13f5e4b027886172741e/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/ba0d968627be13f5e4b027886172741e/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/ba0d968627be13f5e4b027886172741e/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/ba0d968627be13f5e4b027886172741e/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/ba0d968627be13f5e4b027886172741e/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/ba0d968627be13f5e4b027886172741e/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/ba0d968627be13f5e4b027886172741e/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/ba0d968627be13f5e4b027886172741e/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/ba0d968627be13f5e4b027886172741e/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/ba0d968627be13f5e4b027886172741e/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/ba0d968627be13f5e4b027886172741e/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/ba0d968627be13f5e4b027886172741e/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/ba0d968627be13f5e4b027886172741e/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/ba0d968627be13f5e4b027886172741e/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/ba0d968627be13f5e4b027886172741e/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/ba0d968627be13f5e4b027886172741e/AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/5b8773b53975e1ee2071e0d2659699c1/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/5b8773b53975e1ee2071e0d2659699c1/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/5b8773b53975e1ee2071e0d2659699c1/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/5b8773b53975e1ee2071e0d2659699c1/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/5b8773b53975e1ee2071e0d2659699c1/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/5b8773b53975e1ee2071e0d2659699c1/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/5b8773b53975e1ee2071e0d2659699c1/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/5b8773b53975e1ee2071e0d2659699c1/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/5b8773b53975e1ee2071e0d2659699c1/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/5b8773b53975e1ee2071e0d2659699c1/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/5b8773b53975e1ee2071e0d2659699c1/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/5b8773b53975e1ee2071e0d2659699c1/AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/5b8773b53975e1ee2071e0d2659699c1/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/5b8773b53975e1ee2071e0d2659699c1/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/5b8773b53975e1ee2071e0d2659699c1/AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/5b8773b53975e1ee2071e0d2659699c1/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/5b8773b53975e1ee2071e0d2659699c1/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/5b8773b53975e1ee2071e0d2659699c1/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/5b8773b53975e1ee2071e0d2659699c1/AndroidManifest.xml:54:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/d30834c27303a9535549ba8f402437d6/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/d30834c27303a9535549ba8f402437d6/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/d30834c27303a9535549ba8f402437d6/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/d30834c27303a9535549ba8f402437d6/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/edeb5684595564c233f22f85680e4c94/AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/edeb5684595564c233f22f85680e4c94/AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/edeb5684595564c233f22f85680e4c94/AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/edeb5684595564c233f22f85680e4c94/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/edeb5684595564c233f22f85680e4c94/AndroidManifest.xml:11:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/6b8c661b2b800868b7f4010a1449782c/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/6b8c661b2b800868b7f4010a1449782c/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/6b8c661b2b800868b7f4010a1449782c/AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/188b6350fc93f654559254a8c05f744e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/92ce0ad355348742e004b0145e5294dd/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/92ce0ad355348742e004b0145e5294dd/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/188b6350fc93f654559254a8c05f744e/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/skryshtafovych/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/188b6350fc93f654559254a8c05f744e/AndroidManifest.xml:27:13-51
